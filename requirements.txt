@@ -3,3 +3,4 @@ streamlit-webrtc
 pydub
 transformers
 matplotlib
+torch
