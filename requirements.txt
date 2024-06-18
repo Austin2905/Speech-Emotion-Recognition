@@ -1,9 +1,6 @@
 streamlit
-streamlit-webrtc
 pydub
 transformers
 matplotlib
 torch
-ffmpeg
-ffprobe
 avconv
