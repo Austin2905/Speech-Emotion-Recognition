@@ -4,5 +4,4 @@ pydub
 transformers
 matplotlib
 torch
-avconv
 ffmpeg
