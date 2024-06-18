@@ -6,3 +6,4 @@ matplotlib
 torch
 ffmpeg
 ffprobe
+avconv
